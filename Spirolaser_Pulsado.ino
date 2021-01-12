@@ -1,7 +1,11 @@
+// Laser pins 2 3 4  dials
+// Mirror pins 0 1 5 6 dials
+
 ///DEFINES
 #define pulseLaserDutyInputPin 2
 #define pulseLaserStepsInputPin 4
 #define pulseLaserPrescalerInputPin 3
+
 
 #define mirrorInputPinCount 4
 
